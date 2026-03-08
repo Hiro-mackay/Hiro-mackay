@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mackay</h1>
 
 <p align="center">
-  Software Engineer at <a href="https://acompany.tech">Acompany Co., Ltd.</a> | Japan
+  Software Engineer | Japan
 </p>
 
 <p align="center">
@@ -17,39 +17,35 @@
 
 ### About
 
-Building software that sits at the intersection of **web frontend** and **multimedia processing**. Particularly focused on browser-based video editing using Canvas API and FFmpeg.
+Full-stack developer working with **TypeScript** and **Go**, with a growing focus on **AI/LLM** applications. Interested in building practical tools and clean architectures.
 
 ### Tech Stack
 
 **Languages**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 
-**Frontend**
+**Frontend / Backend**
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Canvas API](https://img.shields.io/badge/-Canvas_API-E34F26?style=flat&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
-**Infrastructure**
+**AI / LLM**
 
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 
 ### Highlight Projects
 
 | Project | Description |
 |---|---|
-| [video-editor-with-sequence](https://github.com/Hiro-mackay/video-editor-with-sequence) | Browser-based video editor with timeline sequencing |
-| [canvas-video-editing](https://github.com/Hiro-mackay/canvas-video-editing) | Video editing powered by Canvas API |
-| [go-todo-clean-architecture](https://github.com/Hiro-mackay/go-todo-clean-architecture) | Go REST API with Clean Architecture |
+| [ai-bootstrap](https://github.com/Hiro-mackay/ai-bootstrap) | AI application scaffolding in Go |
+| [iss-track-system](https://github.com/Hiro-mackay/iss-track-system) | ISS tracking system built with Go |
 | [kindle-ocr](https://github.com/Hiro-mackay/kindle-ocr) | OCR tool for Kindle highlights |
-| [blog-hub](https://github.com/Hiro-mackay/blog-hub) | Aggregated RSS feed manager |
+| [go-todo-clean-architecture](https://github.com/Hiro-mackay/go-todo-clean-architecture) | Go REST API with Clean Architecture |
+| [video-editor-with-sequence](https://github.com/Hiro-mackay/video-editor-with-sequence) | Browser-based video editor with timeline sequencing |
 
 ---
 
