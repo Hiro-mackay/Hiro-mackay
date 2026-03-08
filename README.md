@@ -18,20 +18,3 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
 </div>
 
-###
-
-<h2 align="left">Projects</h2>
-
-- [ai-bootstrap](https://github.com/Hiro-mackay/ai-bootstrap) - AI application scaffolding in Go
-- [iss-track-system](https://github.com/Hiro-mackay/iss-track-system) - ISS tracking system built with Go
-- [kindle-ocr](https://github.com/Hiro-mackay/kindle-ocr) - OCR tool for Kindle highlights
-- [go-todo-clean-architecture](https://github.com/Hiro-mackay/go-todo-clean-architecture) - Go REST API with Clean Architecture
-- [video-editor-with-sequence](https://github.com/Hiro-mackay/video-editor-with-sequence) - Browser-based video editor with timeline sequencing
-
-###
-
-<div align="left">
-  <a href="https://twitter.com/mackay_1503">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="40" alt="twitter logo" />
-  </a>
-</div>
